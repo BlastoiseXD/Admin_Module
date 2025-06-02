@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Admin_ShopSwift</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_enter_your_phone_number">Ppease Enter number\n</string>
+    <string name="c">LEts go \n</string>
+    <string name="number">number</string>
+    <string name="otp">otp</string>
+    <string name="hint">.</string>
+    <string name="verify_otp">Verify Otp</string>
+    <string name="loading">loading</string>
+</resources>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment3"
+        android:icon="@drawable/home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/addproductFragment2"
+        android:icon="@drawable/plus"
+        android:title="Add Product" />
+
+    <item
+        android:id="@+id/orderFragment2"
+        android:icon="@drawable/order"
+        android:title="Order" />
+</menu>
